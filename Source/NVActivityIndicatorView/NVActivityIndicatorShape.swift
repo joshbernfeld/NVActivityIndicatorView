@@ -151,7 +151,7 @@ enum NVActivityIndicatorShape {
                         clockwise: true)
             layer.fillColor = nil
             layer.strokeColor = color.cgColor
-            layer.lineWidth = 1.4
+            layer.lineWidth = 1.3
         }
 
         layer.backgroundColor = nil
